@@ -1,8 +1,12 @@
 # Distributions Package
-Distributions Packge: Udacity - Machine Learning Engineer Nanodegree Program
+*Distributions Packge: Udacity - Machine Learning Engineer Nanodegree Program
 
-Project Overview:
+## Project Overview
 This repository contains the code for the Udacity Machine Learning Nanodegree Distribution Package. This package was uploaded to the pypi repository. In this package are functions for handling normal distributions, binomial distributions and Gaussian distributions. 
 
-Software and Libraries:
+## Software and Libraries
 This project uses the following software and Python libraries:
+
+
+* [Python](https://www.python.org/downloads/release/python-364/)
+* [Matplotlib](https://matplotlib.org/)
